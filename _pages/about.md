@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Aakaash Rao"
+excerpt: "Jonas Schwarze"
 author_profile: true
 redirect_from: 
   - /about/
