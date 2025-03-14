@@ -1,14 +1,13 @@
 ---
 layout: archive
 permalink: /research/
+title: ""
 author_profile: true
 redirect_from:
   - /publications
 ---
 
-Work in progress
+## Work in progress
 
-Work in progress to be shown here.
-
-
+**Too simple to be true** with Marcel Spieske
 
