@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+Welcome to my personal website! This website is currently under construction.
