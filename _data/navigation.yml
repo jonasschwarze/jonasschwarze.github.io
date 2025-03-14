@@ -5,11 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research"
-    url: /research/
+ # - title: "Research"
+  #  url: /research/
 
-  - title: "CV"
-    url: /cv/    
+  #- title: "CV"
+  #  url: /cv/    
 
   #- title: "Teaching"
   # url: /teaching/    
@@ -25,3 +25,9 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "CV"
+    url: /cv/ 
