@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! This website is currently under construction.
+## Research
+
+### Work in progress
+
+*Too simple to be true? Individual preferences for information.* with Marcel Spieske
