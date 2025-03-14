@@ -6,7 +6,7 @@ redirect_from:
   - /publications
 ---
 
-## Work in progress
+Work in progress
 
 Work in progress to be shown here.
 
