@@ -9,5 +9,5 @@ redirect_from:
 
 ## Work in progress
 
-**Too simple to be true** with Marcel Spieske
+*Too simple to be true? Individual preferences for information.* with Marcel Spieske
 
