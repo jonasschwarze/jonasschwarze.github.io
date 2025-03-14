@@ -26,8 +26,8 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+   # url: /research/
 
   - title: "CV"
     url: https://www.dropbox.com/scl/fi/d2k5lr525yn1nwhsh9hvl/cv.pdf?rlkey=15ixquiagzhpncmwoxo8dy2r3&st=2p0y8gg1&dl=0
